@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build directories
+dist/
+build/
+out/
+tmp/
+public/
+
+# Environment files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled output
+*.min.js
+*.min.css
+
+# Testing files
+coverage/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
+.history
+
+*.lock
+
+pnpm-lock*
+package-lock*
+
+*.ignore.*
+
+ignore-folder

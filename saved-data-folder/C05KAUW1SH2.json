@@ -1,0 +1,5392 @@
+[
+  {
+    "subtype": "channel_convert_to_private",
+    "user": "U02M820U29Z",
+    "text": "made this channel *private*. Now, it can only be viewed or joined by invitation.",
+    "type": "message",
+    "ts": "1713803257.891779"
+  },
+  {
+    "subtype": "channel_convert_to_public",
+    "user": "U02M820U29Z",
+    "text": "made this channel *public*. Any member in this workspace can see and join it.",
+    "type": "message",
+    "ts": "1713802856.046409"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U070E6VDX5F",
+    "text": "<@U070E6VDX5F> has joined the channel",
+    "inviter": "U02M820U29Z",
+    "type": "message",
+    "ts": "1713802051.560859"
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1713802048.345309",
+    "client_msg_id": "4181f435-8ea9-421f-880a-764f57b1644e",
+    "text": "<@U070E6VDX5F>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1FfOA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U070E6VDX5F"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1713798250.199199",
+    "client_msg_id": "8d0297d5-801c-4f77-adb7-7d57db7beab1",
+    "text": "AOA\n\n<@U04M00CUS0M>\n\nJavascript TODO app course\n\nchatgpt link: <https://chat.openai.com/c/5b628085-775f-4432-8e9d-1c346cea5dcd>\nname of chat: “Achievement Through Consistency”\naccount: “prodago account”\n\n1. JavaScript Development Series by Zaions: Building a TODO App - Urdu/Hindi\n    a. video#1\n    b. slug: create-todo-app-using-javascript-complete-course\n    c. hashtags: #JavaScript #WebDevelopment #LocalStorage #TODOapp",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AhQUh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\n\nJavascript TODO app course\n\nchatgpt link: "
+              },
+              {
+                "type": "link",
+                "url": "https://chat.openai.com/c/5b628085-775f-4432-8e9d-1c346cea5dcd"
+              },
+              {
+                "type": "text",
+                "text": "\nname of chat: “Achievement Through Consistency”\naccount: “prodago account”\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "JavaScript Development Series by Zaions: Building a TODO App - Urdu/Hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "video#1"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: create-todo-app-using-javascript-complete-course"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #JavaScript #WebDevelopment #LocalStorage #TODOapp"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1712299949.657459",
+    "client_msg_id": "df2ed701-f4d7-439c-9712-b3048245a2d1",
+    "text": "<@U04M00CUS0M>\nTikTok Ads Tutorial For Beginners | How To Create Tiktok Video Ads Step By Step\n<https://www.youtube.com/watch?v=B0yI-C0H9ys>\n-\ni need a ad creative for <http://bubble.io|bubble.io> course on zaions youtube channel.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L5OL4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nTikTok Ads Tutorial For Beginners | How To Create Tiktok Video Ads Step By Step\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=B0yI-C0H9ys"
+              },
+              {
+                "type": "text",
+                "text": "\n-\ni need a ad creative for "
+              },
+              {
+                "type": "link",
+                "url": "http://bubble.io",
+                "text": "bubble.io"
+              },
+              {
+                "type": "text",
+                "text": " course on zaions youtube channel."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "<@U02M820U29Z> reply him",
+    "files": [
+      {
+        "id": "F06R92B9XKP",
+        "created": 1711449641,
+        "timestamp": 1711449641,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U04GUS8RHJM",
+        "user_team": "T02M81CE7J6",
+        "editable": false,
+        "size": 494181,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02M81CE7J6-F06R92B9XKP/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02M81CE7J6-F06R92B9XKP/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 202,
+        "thumb_480": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_160": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_800": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 450,
+        "thumb_960": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02M81CE7J6-F06R92B9XKP-d4e8cc014e/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "original_w": 1919,
+        "original_h": 1079,
+        "thumb_tiny": "AwAaADCkOR0H5UbT6D8qRWwoz/OguD2P50AKR7D8qOcYwMUm4en60m4elADgoKk/IMdj3puQD91T+FSxQtKjOqnC9TURwCDQALyCM4ptPYDPSjFADKKnCjA4FIwGOgoAktxG0D7i27PGKrtS0o560Af/2Q==",
+        "permalink": "https://zaionsofficial.slack.com/files/U04GUS8RHJM/F06R92B9XKP/image.png",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06R92B9XKP-6a7a1c7c37",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04GUS8RHJM",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W6Spx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              },
+              {
+                "type": "text",
+                "text": " reply him"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1711449655.552119",
+    "client_msg_id": "c7698cbe-c1f0-4703-8a62-9eacedf7206e"
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U02M820U29Z",
+    "thread_ts": "1710580119.399229",
+    "root": {
+      "user": "U02M820U29Z",
+      "type": "message",
+      "ts": "1710580119.399229",
+      "edited": {
+        "user": "U02M820U29Z",
+        "ts": "1711361151.000000"
+      },
+      "client_msg_id": "8eaecae7-2d7c-49ea-b6af-e27645670f3f",
+      "text": "<http://bubble.io|bubble.io> course videos titles, slugs, hashtags and other required info\n\n1. Why Choose <http://Bubble.io|Bubble.io>? A Complete No-Code Guide for Beginners | Urdu/Hindi | Zaions\n    a. slug: start-full-stack-app-development-with-bubble-io-no-code\n    b. hashtags: #BubbleIo #NoCodeDevelopment #FullStackDevelopment\n2. Getting Started with <http://Bubble.io|Bubble.io>: Account Creation, Onboarding and More | Urdu/Hindi | Zaions\n    a. slug: getting-started-with-bubble-io-urdu-hindi\n    b. hashtags: #BubbleIoAccountCreation #NoCodeFullStackDevelopment #BubbleIoAppDevelopment\n3. Creating Your First App on <http://Bubble.io|Bubble.io>: A Step by Step Guide | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIo #NoCode #AppDevelopment\n    b. slug: creating-first-bubble-io-app-urdu-hindi\n4. Exploring <http://Bubble.io|Bubble.io>’s App Editor: A Quick Guide to Topbar and Sidebar | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIo #AppEditor #NoCodeDevelopment\n    b. slug: bubble-io-app-editor-introduction-urdu-hindi\n5. <http://Bubble.io|Bubble.io> Deep Dive: Understanding Topbar Features (Part 1) | Urdu/Hindi | Zaions\n    a. hashtag: #BubbleIo #AppDevelopment #TopbarExplained\n    b. slug: bubble-io-topbar-options-part1-urdu-hindi\n6. Completing the Topbar Tour: Final Features in <http://Bubble.io|Bubble.io> App Editor | Urdu/Hindi | Zaions\n    a. slug: bubble-io-topbar-completed-guide-urdu-hindi\n    b. hashtags: #BubbleIo #TopbarGuide #AppDevelopment\n7. Mastering the Design Tab in <http://Bubble.io|Bubble.io>: UI Builder & Responsive Design | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIo #UIDesign #ResponsiveDesign #NoCode\n    b. slug: bubble-io-ui-builder-and-responsive-tab-urdu-hindi\n8. Understanding Components in <http://Bubble.io|Bubble.io>: A Complete Guide | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoComponents #NoCodeDevelopment #FullStackAppDevelopment\n    b. slug: bubble-io-components-guide-urdu-hindi\n9. The Complete Guide to <http://Bubble.io|Bubble.io>’s Appearance Tab: Enhance Your UI | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoDesign #AppearanceTab #ComponentEditor\n    b. slug: bubble-io-appearance-tab-explained-urdu-hindi\n10. The Ultimate Guide to the Layout Tab in <http://Bubble.io|Bubble.io> | Urdu/Hindi Tutorial | Zaions\n    a. hashtags: #BubbleIoLayout #NoCodeDevelopment #ComponentEditor\n    b. slug: bubble-io-layout-controls-explained-urdu-hindi\n11. The Complete Guide to Conditional Tab in <http://Bubble.io|Bubble.io>’s Editor | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoConditional #NoCodeDevelopment #ConditionalStyling\n    b. slug: mastering-conditional-tab-bubble-io-urdu-hindi\n12. Creating a To-Do App Sidebar UI in <http://Bubble.io|Bubble.io> Step-by-Step | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoUI #To-DoAppDesign #NoCodeDevelopment\n    b. slug: creating-todo-app-sidebar-ui-bubble-io-urdu-hindi\n13. The Complete Step-by-Step Guide to Using Plugins in <http://Bubble.io|Bubble.io> | Urdu/Hindi Tutorial | Zaions\n    a. slug:    enhancing-apps-with-bubble-io-plugins-urdu-hindi\n    b. hashtags:     #BubbleIoPlugins #NoCodeDevelopment #FullAppDevelopment\n14. Customizing Calendars in <http://Bubble.io|Bubble.io> with Official and Community Plugins | Urdu/Hindi | Zaions\n    a. hashtags:     #BubbleIoCalendars #NoCodeDevelopment #PluginIntegration\n    b. slug:     integrating-calendar-plugins-bubble-io-urdu-hindi\n15. A Deep Dive into <http://Bubble.io|Bubble.io> Component Editor’s Topbar’s Hidden Options | Urdu/Hindi | Zaions\n    a. hashtags:      #BubbleIoTopbar #ComponentEditor #NoCodeDevelopment\n    b. slug:      exploring-hidden-topbar-options-bubble-io-urdu-hindi",
+      "team": "T02M81CE7J6",
+      "thread_ts": "1710580119.399229",
+      "reply_count": 3,
+      "reply_users_count": 1,
+      "latest_reply": "1711361185.652939",
+      "reply_users": [
+        "U02M820U29Z"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "38w02",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://bubble.io",
+                  "text": "bubble.io"
+                },
+                {
+                  "type": "text",
+                  "text": " course videos titles, slugs, hashtags and other required info\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Why Choose "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": "? A Complete No-Code Guide for Beginners | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: start-full-stack-app-development-with-bubble-io-no-code"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIo #NoCodeDevelopment #FullStackDevelopment"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Getting Started with "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Account Creation, Onboarding and More | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: getting-started-with-bubble-io-urdu-hindi"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIoAccountCreation #NoCodeFullStackDevelopment #BubbleIoAppDevelopment"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Creating Your First App on "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": ": A Step by Step Guide | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 2,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIo #NoCode #AppDevelopment"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: creating-first-bubble-io-app-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Exploring "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": "’s App Editor: A Quick Guide to Topbar and Sidebar | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 3,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIo #AppEditor #NoCodeDevelopment"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: bubble-io-app-editor-introduction-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Deep Dive: Understanding Topbar Features (Part 1) | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 4,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtag: #BubbleIo #AppDevelopment #TopbarExplained"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: bubble-io-topbar-options-part1-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Completing the Topbar Tour: Final Features in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": " App Editor | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 5,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: bubble-io-topbar-completed-guide-urdu-hindi"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIo #TopbarGuide #AppDevelopment"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Mastering the Design Tab in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": ": UI Builder & Responsive Design | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 6,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIo #UIDesign #ResponsiveDesign #NoCode"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: bubble-io-ui-builder-and-responsive-tab-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Understanding Components in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": ": A Complete Guide | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 7,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIoComponents #NoCodeDevelopment #FullStackAppDevelopment"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: bubble-io-components-guide-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "The Complete Guide to "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": "’s Appearance Tab: Enhance Your UI | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 8,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIoDesign #AppearanceTab #ComponentEditor"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: bubble-io-appearance-tab-explained-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "The Ultimate Guide to the Layout Tab in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": " | Urdu/Hindi Tutorial | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 9,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIoLayout #NoCodeDevelopment #ComponentEditor"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: bubble-io-layout-controls-explained-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "The Complete Guide to Conditional Tab in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": "’s Editor | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 10,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIoConditional #NoCodeDevelopment #ConditionalStyling"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: mastering-conditional-tab-bubble-io-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Creating a To-Do App Sidebar UI in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Step-by-Step | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 11,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #BubbleIoUI #To-DoAppDesign #NoCodeDevelopment"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: creating-todo-app-sidebar-ui-bubble-io-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "The Complete Step-by-Step Guide to Using Plugins in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": " | Urdu/Hindi Tutorial | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 12,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug:    enhancing-apps-with-bubble-io-plugins-urdu-hindi"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags:     #BubbleIoPlugins #NoCodeDevelopment #FullAppDevelopment"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Customizing Calendars in "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": " with Official and Community Plugins | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 13,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags:     #BubbleIoCalendars #NoCodeDevelopment #PluginIntegration"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug:     integrating-calendar-plugins-bubble-io-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "A Deep Dive into "
+                    },
+                    {
+                      "type": "link",
+                      "url": "http://Bubble.io",
+                      "text": "Bubble.io"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Component Editor’s Topbar’s Hidden Options | Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 14,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags:      #BubbleIoTopbar #ComponentEditor #NoCodeDevelopment"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug:      exploring-hidden-topbar-options-bubble-io-urdu-hindi"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1711361185.652939",
+    "client_msg_id": "df809777-e83e-4a70-b1f1-4bc5b8899c37",
+    "text": "<@U04M00CUS0M>\n\n<https://chat.openai.com/c/0f374e0f-a74e-4c13-961b-9c09bd815bcd>\ncontent for <http://bubble.io|bubble.io> video 13,14, &amp; 15 added",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rd+70",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://chat.openai.com/c/0f374e0f-a74e-4c13-961b-9c09bd815bcd"
+              },
+              {
+                "type": "text",
+                "text": "\ncontent for "
+              },
+              {
+                "type": "link",
+                "url": "http://bubble.io",
+                "text": "bubble.io"
+              },
+              {
+                "type": "text",
+                "text": " video 13,14, & 15 added"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U02M820U29Z",
+    "thread_ts": "1710215354.349839",
+    "root": {
+      "user": "U02M820U29Z",
+      "type": "message",
+      "ts": "1710215354.349839",
+      "client_msg_id": "0130043d-17df-439b-a192-476164a5042c",
+      "text": "<@U04M00CUS0M>\n<http://Bubble.io|Bubble.io> course videos Section titles.\n\nin this message thread",
+      "team": "T02M81CE7J6",
+      "thread_ts": "1710215354.349839",
+      "reply_count": 4,
+      "reply_users_count": 1,
+      "latest_reply": "1711101236.069109",
+      "reply_users": [
+        "U02M820U29Z"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KQk+T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U04M00CUS0M"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "http://Bubble.io",
+                  "text": "Bubble.io"
+                },
+                {
+                  "type": "text",
+                  "text": " course videos Section titles.\n\nin this message thread"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1711101236.069109",
+    "client_msg_id": "9a833062-a393-4e7a-a4ee-996bb64e8235",
+    "text": "<@U04M00CUS0M>\nvideo 13,14,15 section titles added.",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nTgzd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nvideo 13,14,15 section titles added."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1711101083.556859",
+    "client_msg_id": "84f575cd-e5c7-4334-ba28-3fbaed607343",
+    "text": "okay",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cixRH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1711101067.909699",
+    "client_msg_id": "d16edad9-c0fb-48b6-a905-2052d7f32c04",
+    "text": "<@U02M820U29Z>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09TmN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1711101060.447489",
+    "client_msg_id": "dd175cc3-cc27-40d3-99ad-56f742d9a42e",
+    "text": "<http://Bubble.io|Bubble.io> ki jo new videos record ki ha un ka chapters send kr dey bro",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cIfrx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://Bubble.io",
+                "text": "Bubble.io"
+              },
+              {
+                "type": "text",
+                "text": " ki jo new videos record ki ha un ka chapters send kr dey bro"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1711100995.194129",
+    "client_msg_id": "fdb91787-65b8-40a5-9ed0-afa50a66bd24",
+    "text": "AOA",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Iy9Ke",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1711088430.112779",
+    "client_msg_id": "cd1cdb1c-d33d-4268-8281-e2974ae5c731",
+    "text": "AOA",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1711088430.112779",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1711088532.035449",
+    "reply_users": [
+      "U02M820U29Z"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Iy9Ke",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1711004528.421519",
+    "client_msg_id": "36a35c15-be65-4cf8-b88e-b2a855410954",
+    "text": "<@U04M00CUS0M>\nin aws video 2 at “24:22” we need a pause screen, as i asked users to do something.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8xhYn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nin aws video 2 at “24:22” we need a pause screen, as i asked users to do something."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U02M820U29Z",
+    "thread_ts": "1710210191.546019",
+    "root": {
+      "user": "U02M820U29Z",
+      "type": "message",
+      "ts": "1710210191.546019",
+      "edited": {
+        "user": "U02M820U29Z",
+        "ts": "1711010211.000000"
+      },
+      "client_msg_id": "20aa6f1f-dfcd-48de-a07e-cf114e9dc222",
+      "text": "AOA\n\n<@U04M00CUS0M>\nAWS Course Videos Content\n<https://chat.openai.com/c/e69a8071-d5fb-453d-95c3-c26964ae141a>\n\n-\n1. AWS for Beginners: Serverless API with Lambda & DynamoDB in Urdu/Hindi | Zaions\n    a. slug: serverless-restful-api-development-using-aws-lambda\n    b. hashtags: #ServerlessRestfulAPI #AWSLambdaAPIDevelopmentCourse #AWSServerlessCourse\n2. Deep Dive into AWS Lambda & API Gateway for RESTful APIs in Urdu/Hindi | Zaions\n    a. slug:        serverless-api-development-using-aws-lambda-and-api-gateway\n    b. hashtags:    #APIGateway #ServerlessRESTfulAPI #AWSLambdaFunctions",
+      "team": "T02M81CE7J6",
+      "thread_ts": "1710210191.546019",
+      "reply_count": 4,
+      "reply_users_count": 2,
+      "latest_reply": "1711088602.362229",
+      "reply_users": [
+        "U02M820U29Z",
+        "U04M00CUS0M"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qf92k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AOA\n\n"
+                },
+                {
+                  "type": "user",
+                  "user_id": "U04M00CUS0M"
+                },
+                {
+                  "type": "text",
+                  "text": "\nAWS Course Videos Content\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://chat.openai.com/c/e69a8071-d5fb-453d-95c3-c26964ae141a"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n-\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "AWS for Beginners: Serverless API with Lambda & DynamoDB in Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: serverless-restful-api-development-using-aws-lambda"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #ServerlessRestfulAPI #AWSLambdaAPIDevelopmentCourse #AWSServerlessCourse"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Deep Dive into AWS Lambda & API Gateway for RESTful APIs in Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 1,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug:        serverless-api-development-using-aws-lambda-and-api-gateway"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags:    #APIGateway #ServerlessRESTfulAPI #AWSLambdaFunctions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1711003847.780369",
+    "client_msg_id": "299c6ef8-e7a6-4281-af17-177d9cec50ce",
+    "text": "<@U04M00CUS0M>\naws course videos content in this chat",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2pzKc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\naws course videos content in this chat"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U02M820U29Z",
+    "thread_ts": "1709981166.662289",
+    "root": {
+      "user": "U02M820U29Z",
+      "type": "message",
+      "ts": "1709981166.662289",
+      "edited": {
+        "user": "U02M820U29Z",
+        "ts": "1711003799.000000"
+      },
+      "client_msg_id": "fc8e1b1c-751f-42c5-91fe-0d6a1c585b67",
+      "text": "<@U04M00CUS0M>\n\nchatgpt link: <https://chat.openai.com/c/e2837ae7-2d5e-49b2-a69c-1ae47419ef27>\n\ngithub video\n\n1. Mastering GitHub: Cloning, Collaboration, and Conflict Resolution in Urdu/Hindi | Zaions\n    a. short-course-on-github-28-2-24-v1\n    b. slug: mastering-github-collaboration-urdu-hindi\n    c. hashtags: #GitCollaboration #MergeConflicts #GitHubCloning",
+      "team": "T02M81CE7J6",
+      "thread_ts": "1709981166.662289",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1711003813.510599",
+      "reply_users": [
+        "U02M820U29Z"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UWlW9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U04M00CUS0M"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\nchatgpt link: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://chat.openai.com/c/e2837ae7-2d5e-49b2-a69c-1ae47419ef27"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\ngithub video\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Mastering GitHub: Cloning, Collaboration, and Conflict Resolution in Urdu/Hindi | Zaions"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "short-course-on-github-28-2-24-v1"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "slug: mastering-github-collaboration-urdu-hindi"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "hashtags: #GitCollaboration #MergeConflicts #GitHubCloning"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 1,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1711003813.510599",
+    "client_msg_id": "870b2d8d-c426-4be5-ab3d-78599a1ffe71",
+    "text": "<@U04M00CUS0M> github videos content in this chat",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "POxV+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": " github videos content in this chat"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710751381.272279",
+    "client_msg_id": "9aaf9eb1-60c1-4c9b-b0fd-72b431a12f74",
+    "text": "install kr lo",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "npkQ9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "install kr lo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710751353.925689",
+    "client_msg_id": "e7c35620-01b1-40b0-b1b9-3275fbca8e10",
+    "text": "anydesk share karo",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PBCUN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "anydesk share karo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710751345.664519",
+    "client_msg_id": "cc7923a3-74d3-418b-a3d7-8ff1f6a442d6",
+    "text": "nahi",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UgnvX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nahi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710751325.274639",
+    "client_msg_id": "707999d8-6acf-435d-8108-4f015cdf9b96",
+    "text": "private per try kar rahy ho?",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5GGr7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "private per try kar rahy ho?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "",
+    "files": [
+      {
+        "id": "F06QCTV33G9",
+        "created": 1710751228,
+        "timestamp": 1710751228,
+        "name": "audio_message.webm",
+        "title": "audio_message.webm",
+        "mimetype": "audio/webm",
+        "filetype": "webm",
+        "pretty_type": "WebM",
+        "user": "U04M00CUS0M",
+        "user_team": "T02M81CE7J6",
+        "editable": false,
+        "size": 246055,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "subtype": "slack_audio",
+        "transcription": {
+          "status": "none"
+        },
+        "url_private": "https://files.slack.com/files-tmb/T02M81CE7J6-F06QCTV33G9-aff3c825db/audio_message_audio.mp4",
+        "url_private_download": "https://files.slack.com/files-tmb/T02M81CE7J6-F06QCTV33G9-aff3c825db/download/audio_message_audio.mp4",
+        "duration_ms": 15180,
+        "aac": "https://files.slack.com/files-tmb/T02M81CE7J6-F06QCTV33G9-aff3c825db/audio_message_audio.mp4",
+        "audio_wave_samples": [
+          0,
+          0,
+          0,
+          19,
+          5,
+          3,
+          1,
+          17,
+          25,
+          3,
+          9,
+          32,
+          38,
+          34,
+          51,
+          40,
+          55,
+          65,
+          42,
+          54,
+          24,
+          59,
+          48,
+          53,
+          77,
+          44,
+          53,
+          71,
+          99,
+          55,
+          38,
+          40,
+          72,
+          38,
+          32,
+          29,
+          28,
+          32,
+          28,
+          25,
+          31,
+          40,
+          17,
+          26,
+          25,
+          27,
+          47,
+          50,
+          23,
+          39,
+          58,
+          61,
+          80,
+          51,
+          62,
+          69,
+          53,
+          62,
+          29,
+          20,
+          4,
+          0,
+          0,
+          14,
+          52,
+          16,
+          5,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          22,
+          50,
+          100,
+          89,
+          48,
+          78,
+          39,
+          41,
+          25,
+          18,
+          17,
+          27,
+          15,
+          21,
+          13,
+          9,
+          0,
+          0,
+          0,
+          0
+        ],
+        "media_display_type": "audio",
+        "permalink": "https://zaionsofficial.slack.com/files/U04M00CUS0M/F06QCTV33G9/audio_message.webm",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06QCTV33G9-c51a2dac01",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04M00CUS0M",
+    "display_as_bot": false,
+    "type": "message",
+    "ts": "1710751231.076759",
+    "client_msg_id": "1da47cb8-f53b-453c-9246-143860a6e48e"
+  },
+  {
+    "text": "<@U02M820U29Z>",
+    "files": [
+      {
+        "id": "F06Q2MXG7EY",
+        "created": 1710751200,
+        "timestamp": 1710751200,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U04M00CUS0M",
+        "user_team": "T02M81CE7J6",
+        "editable": false,
+        "size": 282593,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02M81CE7J6-F06Q2MXG7EY/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02M81CE7J6-F06Q2MXG7EY/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 170,
+        "thumb_480": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 226,
+        "thumb_160": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 340,
+        "thumb_800": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 377,
+        "thumb_960": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 453,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q2MXG7EY-ae4226d66a/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 483,
+        "original_w": 3839,
+        "original_h": 1811,
+        "thumb_tiny": "AwAWADC59lg/55LR9kg/55LT/Nj/AOeif99Cgyx9pE/MUARm1g/54igWsB/5YipDLHj/AFif99Cl86P/AJ6J/wB9CgCP7JBn/VLR9lg/55Cn+bHjmRP++hR5sf8Az0T/AL6FAGBRRRWhIoOOwoJz2FFFACYpV+8PrSUq/eH1oA//2Q==",
+        "permalink": "https://zaionsofficial.slack.com/files/U04M00CUS0M/F06Q2MXG7EY/image.png",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06Q2MXG7EY-17791be82d",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04M00CUS0M",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09TmN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1710751206.656369",
+    "client_msg_id": "66426c28-d795-41fb-bb08-44f93c6e07d0"
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710745731.143029",
+    "client_msg_id": "58ec2fb1-2480-4ac2-b4b1-7cc37b614e54",
+    "text": "ok",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "luWBi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710745724.119559",
+    "client_msg_id": "633e2b80-7ef3-459f-bb23-ceec78cd16c8",
+    "text": "playlist and category added.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pzObt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "playlist and category added."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710745718.219219",
+    "client_msg_id": "1b96823f-7e5d-43d0-8a6e-d5dbe4c4ad9d",
+    "text": "AOA",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Iy9Ke",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710744885.382259",
+    "client_msg_id": "6cd54a1b-5ece-4051-85ad-a3cf9e40ce9b",
+    "text": "ok",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "luWBi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710744852.605629",
+    "client_msg_id": "8aec904d-ac0b-46d9-b85a-ecd0ca546fb3",
+    "text": "please continue i will create the playlist and category in a while.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gtdEl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please continue i will create the playlist and category in a while."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710744702.040719",
+    "client_msg_id": "a90fdfbe-5427-4de6-a9ab-09a688e86d59",
+    "text": "<@U02M820U29Z>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09TmN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710744697.344919",
+    "client_msg_id": "93c7f836-5f46-49f9-84d6-50b3de1a3a8c",
+    "text": "???",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jNjh5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "???"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "",
+    "files": [
+      {
+        "id": "F06PT2A0LGN",
+        "created": 1710742977,
+        "timestamp": 1710742977,
+        "name": "audio_message.webm",
+        "title": "audio_message.webm",
+        "mimetype": "",
+        "filetype": "",
+        "pretty_type": "",
+        "user": "U04M00CUS0M",
+        "user_team": "T02M81CE7J6",
+        "editable": false,
+        "size": 237369,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "subtype": "slack_audio",
+        "url_private": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PT2A0LGN-67d13fb0d8/audio_message_audio.mp4",
+        "url_private_download": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PT2A0LGN-67d13fb0d8/download/audio_message_audio.mp4",
+        "duration_ms": 14640,
+        "aac": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PT2A0LGN-67d13fb0d8/audio_message_audio.mp4",
+        "audio_wave_samples": [
+          4,
+          4,
+          17,
+          29,
+          62,
+          12,
+          5,
+          3,
+          2,
+          2,
+          1,
+          22,
+          18,
+          1,
+          5,
+          2,
+          17,
+          28,
+          67,
+          87,
+          53,
+          62,
+          73,
+          87,
+          87,
+          57,
+          40,
+          100,
+          45,
+          50,
+          30,
+          29,
+          33,
+          41,
+          43,
+          29,
+          29,
+          45,
+          35,
+          41,
+          19,
+          18,
+          13,
+          9,
+          13,
+          3,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          9,
+          66,
+          74,
+          39,
+          33,
+          26,
+          29,
+          24,
+          32,
+          24,
+          22,
+          34,
+          35,
+          49,
+          36,
+          32,
+          24,
+          11,
+          0,
+          0,
+          10,
+          18,
+          6,
+          9,
+          0,
+          18,
+          19,
+          26,
+          22,
+          21,
+          18,
+          28,
+          16,
+          17,
+          17,
+          15,
+          13,
+          16,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "media_display_type": "audio",
+        "permalink": "https://zaionsofficial.slack.com/files/U04M00CUS0M/F06PT2A0LGN/audio_message.webm",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06PT2A0LGN-16e3b8e8b0",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04M00CUS0M",
+    "display_as_bot": false,
+    "type": "message",
+    "ts": "1710743048.407229",
+    "client_msg_id": "5c3dae19-583b-4d83-a29e-5a6fbb92ce1d"
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710742953.028929",
+    "client_msg_id": "87a24358-20d2-4371-b912-953eaacac5b7",
+    "text": "<@U02M820U29Z>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09TmN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710742942.329009",
+    "client_msg_id": "25f14425-bec2-47df-96c9-1668a14d75f0",
+    "text": "AOA",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Iy9Ke",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710737839.015479",
+    "client_msg_id": "c2ee0396-85dc-4646-956a-337b98958550",
+    "text": "okay, as you see fit.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OH+iL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay, as you see fit."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "<@U02M820U29Z>",
+    "files": [
+      {
+        "id": "F06QBUFB65P",
+        "created": 1710734794,
+        "timestamp": 1710734794,
+        "name": "audio_message.webm",
+        "title": "audio_message.webm",
+        "mimetype": "audio/webm",
+        "filetype": "webm",
+        "pretty_type": "WebM",
+        "user": "U04M00CUS0M",
+        "user_team": "T02M81CE7J6",
+        "editable": false,
+        "size": 828644,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "subtype": "slack_audio",
+        "transcription": {
+          "status": "none"
+        },
+        "url_private": "https://files.slack.com/files-tmb/T02M81CE7J6-F06QBUFB65P-5f525ac980/audio_message_audio.mp4",
+        "url_private_download": "https://files.slack.com/files-tmb/T02M81CE7J6-F06QBUFB65P-5f525ac980/download/audio_message_audio.mp4",
+        "duration_ms": 51119,
+        "aac": "https://files.slack.com/files-tmb/T02M81CE7J6-F06QBUFB65P-5f525ac980/audio_message_audio.mp4",
+        "audio_wave_samples": [
+          0,
+          1,
+          26,
+          100,
+          89,
+          62,
+          73,
+          2,
+          54,
+          51,
+          42,
+          42,
+          43,
+          37,
+          32,
+          41,
+          47,
+          61,
+          30,
+          30,
+          26,
+          19,
+          25,
+          22,
+          26,
+          30,
+          29,
+          28,
+          44,
+          35,
+          33,
+          57,
+          39,
+          40,
+          22,
+          0,
+          45,
+          38,
+          38,
+          56,
+          41,
+          38,
+          61,
+          39,
+          47,
+          32,
+          21,
+          49,
+          48,
+          40,
+          39,
+          28,
+          20,
+          22,
+          21,
+          34,
+          28,
+          18,
+          13,
+          56,
+          49,
+          7,
+          14,
+          42,
+          37,
+          37,
+          36,
+          46,
+          43,
+          55,
+          50,
+          30,
+          50,
+          42,
+          37,
+          66,
+          58,
+          38,
+          3,
+          59,
+          42,
+          28,
+          0,
+          47,
+          45,
+          26,
+          55,
+          39,
+          30,
+          37,
+          39,
+          49,
+          63,
+          56,
+          38,
+          43,
+          20,
+          40,
+          43,
+          8
+        ],
+        "media_display_type": "audio",
+        "permalink": "https://zaionsofficial.slack.com/files/U04M00CUS0M/F06QBUFB65P/audio_message.webm",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06QBUFB65P-b69442e6a9",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04M00CUS0M",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09TmN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1710734799.905209",
+    "client_msg_id": "b149a43f-c3b8-4550-b55d-36a0f099d04d"
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710729005.141449",
+    "client_msg_id": "1ddf1c65-3342-4a66-ac20-d22f91c7bdf5",
+    "text": "Inshallah today complete",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0VVSQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Inshallah today complete"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02M820U29Z"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710728797.922859",
+    "client_msg_id": "b70ba4dd-b361-4479-ad44-df10fe2e5b8b",
+    "text": "AOA\n\n<@U04M00CUS0M>\n\nplease complete these 7 videos on youtube today.\n1. thumbnail\n2. content\n3. review\n4. and post on zaions\n5. so i can schedule these videos today.\nINSHAALLAH i will provide you with content for remaining videos today.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4l2w6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\n\nplease complete these 7 videos on youtube today.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "thumbnail"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "content"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "review"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "and post on zaions"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "so i can schedule these videos today."
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nINSHAALLAH i will provide you with content for remaining videos today."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710580119.399229",
+    "edited": {
+      "user": "U02M820U29Z",
+      "ts": "1711361151.000000"
+    },
+    "client_msg_id": "8eaecae7-2d7c-49ea-b6af-e27645670f3f",
+    "text": "<http://bubble.io|bubble.io> course videos titles, slugs, hashtags and other required info\n\n1. Why Choose <http://Bubble.io|Bubble.io>? A Complete No-Code Guide for Beginners | Urdu/Hindi | Zaions\n    a. slug: start-full-stack-app-development-with-bubble-io-no-code\n    b. hashtags: #BubbleIo #NoCodeDevelopment #FullStackDevelopment\n2. Getting Started with <http://Bubble.io|Bubble.io>: Account Creation, Onboarding and More | Urdu/Hindi | Zaions\n    a. slug: getting-started-with-bubble-io-urdu-hindi\n    b. hashtags: #BubbleIoAccountCreation #NoCodeFullStackDevelopment #BubbleIoAppDevelopment\n3. Creating Your First App on <http://Bubble.io|Bubble.io>: A Step by Step Guide | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIo #NoCode #AppDevelopment\n    b. slug: creating-first-bubble-io-app-urdu-hindi\n4. Exploring <http://Bubble.io|Bubble.io>’s App Editor: A Quick Guide to Topbar and Sidebar | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIo #AppEditor #NoCodeDevelopment\n    b. slug: bubble-io-app-editor-introduction-urdu-hindi\n5. <http://Bubble.io|Bubble.io> Deep Dive: Understanding Topbar Features (Part 1) | Urdu/Hindi | Zaions\n    a. hashtag: #BubbleIo #AppDevelopment #TopbarExplained\n    b. slug: bubble-io-topbar-options-part1-urdu-hindi\n6. Completing the Topbar Tour: Final Features in <http://Bubble.io|Bubble.io> App Editor | Urdu/Hindi | Zaions\n    a. slug: bubble-io-topbar-completed-guide-urdu-hindi\n    b. hashtags: #BubbleIo #TopbarGuide #AppDevelopment\n7. Mastering the Design Tab in <http://Bubble.io|Bubble.io>: UI Builder & Responsive Design | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIo #UIDesign #ResponsiveDesign #NoCode\n    b. slug: bubble-io-ui-builder-and-responsive-tab-urdu-hindi\n8. Understanding Components in <http://Bubble.io|Bubble.io>: A Complete Guide | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoComponents #NoCodeDevelopment #FullStackAppDevelopment\n    b. slug: bubble-io-components-guide-urdu-hindi\n9. The Complete Guide to <http://Bubble.io|Bubble.io>’s Appearance Tab: Enhance Your UI | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoDesign #AppearanceTab #ComponentEditor\n    b. slug: bubble-io-appearance-tab-explained-urdu-hindi\n10. The Ultimate Guide to the Layout Tab in <http://Bubble.io|Bubble.io> | Urdu/Hindi Tutorial | Zaions\n    a. hashtags: #BubbleIoLayout #NoCodeDevelopment #ComponentEditor\n    b. slug: bubble-io-layout-controls-explained-urdu-hindi\n11. The Complete Guide to Conditional Tab in <http://Bubble.io|Bubble.io>’s Editor | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoConditional #NoCodeDevelopment #ConditionalStyling\n    b. slug: mastering-conditional-tab-bubble-io-urdu-hindi\n12. Creating a To-Do App Sidebar UI in <http://Bubble.io|Bubble.io> Step-by-Step | Urdu/Hindi | Zaions\n    a. hashtags: #BubbleIoUI #To-DoAppDesign #NoCodeDevelopment\n    b. slug: creating-todo-app-sidebar-ui-bubble-io-urdu-hindi\n13. The Complete Step-by-Step Guide to Using Plugins in <http://Bubble.io|Bubble.io> | Urdu/Hindi Tutorial | Zaions\n    a. slug:    enhancing-apps-with-bubble-io-plugins-urdu-hindi\n    b. hashtags:     #BubbleIoPlugins #NoCodeDevelopment #FullAppDevelopment\n14. Customizing Calendars in <http://Bubble.io|Bubble.io> with Official and Community Plugins | Urdu/Hindi | Zaions\n    a. hashtags:     #BubbleIoCalendars #NoCodeDevelopment #PluginIntegration\n    b. slug:     integrating-calendar-plugins-bubble-io-urdu-hindi\n15. A Deep Dive into <http://Bubble.io|Bubble.io> Component Editor’s Topbar’s Hidden Options | Urdu/Hindi | Zaions\n    a. hashtags:      #BubbleIoTopbar #ComponentEditor #NoCodeDevelopment\n    b. slug:      exploring-hidden-topbar-options-bubble-io-urdu-hindi",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1710580119.399229",
+    "reply_count": 3,
+    "reply_users_count": 1,
+    "latest_reply": "1711361185.652939",
+    "reply_users": [
+      "U02M820U29Z"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "38w02",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://bubble.io",
+                "text": "bubble.io"
+              },
+              {
+                "type": "text",
+                "text": " course videos titles, slugs, hashtags and other required info\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Why Choose "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": "? A Complete No-Code Guide for Beginners | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: start-full-stack-app-development-with-bubble-io-no-code"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIo #NoCodeDevelopment #FullStackDevelopment"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Getting Started with "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Account Creation, Onboarding and More | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: getting-started-with-bubble-io-urdu-hindi"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIoAccountCreation #NoCodeFullStackDevelopment #BubbleIoAppDevelopment"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Creating Your First App on "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": A Step by Step Guide | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 2,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIo #NoCode #AppDevelopment"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: creating-first-bubble-io-app-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Exploring "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": "’s App Editor: A Quick Guide to Topbar and Sidebar | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 3,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIo #AppEditor #NoCodeDevelopment"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: bubble-io-app-editor-introduction-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Deep Dive: Understanding Topbar Features (Part 1) | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 4,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtag: #BubbleIo #AppDevelopment #TopbarExplained"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: bubble-io-topbar-options-part1-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Completing the Topbar Tour: Final Features in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": " App Editor | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 5,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: bubble-io-topbar-completed-guide-urdu-hindi"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIo #TopbarGuide #AppDevelopment"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Mastering the Design Tab in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": UI Builder & Responsive Design | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 6,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIo #UIDesign #ResponsiveDesign #NoCode"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: bubble-io-ui-builder-and-responsive-tab-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Understanding Components in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": A Complete Guide | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 7,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIoComponents #NoCodeDevelopment #FullStackAppDevelopment"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: bubble-io-components-guide-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "The Complete Guide to "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": "’s Appearance Tab: Enhance Your UI | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 8,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIoDesign #AppearanceTab #ComponentEditor"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: bubble-io-appearance-tab-explained-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "The Ultimate Guide to the Layout Tab in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": " | Urdu/Hindi Tutorial | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 9,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIoLayout #NoCodeDevelopment #ComponentEditor"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: bubble-io-layout-controls-explained-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "The Complete Guide to Conditional Tab in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": "’s Editor | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 10,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIoConditional #NoCodeDevelopment #ConditionalStyling"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: mastering-conditional-tab-bubble-io-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Creating a To-Do App Sidebar UI in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Step-by-Step | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 11,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #BubbleIoUI #To-DoAppDesign #NoCodeDevelopment"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: creating-todo-app-sidebar-ui-bubble-io-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "The Complete Step-by-Step Guide to Using Plugins in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": " | Urdu/Hindi Tutorial | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 12,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug:    enhancing-apps-with-bubble-io-plugins-urdu-hindi"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags:     #BubbleIoPlugins #NoCodeDevelopment #FullAppDevelopment"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Customizing Calendars in "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": " with Official and Community Plugins | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 13,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags:     #BubbleIoCalendars #NoCodeDevelopment #PluginIntegration"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug:     integrating-calendar-plugins-bubble-io-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "A Deep Dive into "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://Bubble.io",
+                    "text": "Bubble.io"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Component Editor’s Topbar’s Hidden Options | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 14,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags:      #BubbleIoTopbar #ComponentEditor #NoCodeDevelopment"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug:      exploring-hidden-topbar-options-bubble-io-urdu-hindi"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710580035.449809",
+    "client_msg_id": "ed82acb6-ebf1-459c-831d-1bbb21fc2ff2",
+    "text": "okay",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cixRH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710579500.217199",
+    "client_msg_id": "8f0b6e26-0046-4eaa-bc13-b1f1d75099d5",
+    "text": "<@U02M820U29Z>\nBhai ahsan Please send me the title, slug, and hashtag .",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "808Ec",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              },
+              {
+                "type": "text",
+                "text": "\nBhai ahsan Please send me the title, slug, and hashtag ."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710578596.028989",
+    "client_msg_id": "f3b207a4-95c2-40b0-a1f2-c08ac44e0c05",
+    "text": "please complete these 12 <http://bubble.io|bubble.io> videos first, so i can publish them.",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1710578596.028989",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1710579208.030819",
+    "reply_users": [
+      "U04M00CUS0M",
+      "U02M820U29Z"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Dsuq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please complete these 12 "
+              },
+              {
+                "type": "link",
+                "url": "http://bubble.io",
+                "text": "bubble.io"
+              },
+              {
+                "type": "text",
+                "text": " videos first, so i can publish them."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710578566.686869",
+    "client_msg_id": "c0433734-2766-41d4-8d5a-fe61db0d9bf4",
+    "text": "here i recreated the content.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DBFKZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "here i recreated the content."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710578558.441349",
+    "client_msg_id": "4c5eedf6-a17c-4326-8709-93a0aca3f74f",
+    "text": "i created content yesterday night as well, but not sure who deleted that chat.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lzUk7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i created content yesterday night as well, but not sure who deleted that chat."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710578526.354279",
+    "client_msg_id": "e7a297d2-04d1-4dc1-a5dc-60188c607497",
+    "text": "here's the chat link.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g4nv9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "here's the chat link."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710578520.364799",
+    "client_msg_id": "a170c3ef-73e1-4bbc-808c-a1be2651f43a",
+    "text": "<https://chat.openai.com/c/0f374e0f-a74e-4c13-961b-9c09bd815bcd>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SNpuq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://chat.openai.com/c/0f374e0f-a74e-4c13-961b-9c09bd815bcd"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710578261.319919",
+    "client_msg_id": "6998ab7a-534d-47af-8c8d-d81492361683",
+    "text": "AOA\n\ncontent create hy",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bu1VB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA\n\ncontent create hy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "<@U02M820U29Z>",
+    "files": [
+      {
+        "id": "F06Q8E90CBT",
+        "created": 1710578088,
+        "timestamp": 1710578088,
+        "name": "audio_message.webm",
+        "title": "audio_message.webm",
+        "mimetype": "audio/webm",
+        "filetype": "webm",
+        "pretty_type": "WebM",
+        "user": "U04M00CUS0M",
+        "user_team": "T02M81CE7J6",
+        "editable": false,
+        "size": 612822,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "subtype": "slack_audio",
+        "transcription": {
+          "status": "none"
+        },
+        "url_private": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q8E90CBT-c3c0fb7a24/audio_message_audio.mp4",
+        "url_private_download": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q8E90CBT-c3c0fb7a24/download/audio_message_audio.mp4",
+        "duration_ms": 37799,
+        "aac": "https://files.slack.com/files-tmb/T02M81CE7J6-F06Q8E90CBT-c3c0fb7a24/audio_message_audio.mp4",
+        "audio_wave_samples": [
+          0,
+          69,
+          77,
+          77,
+          79,
+          72,
+          56,
+          6,
+          51,
+          79,
+          49,
+          66,
+          51,
+          57,
+          34,
+          13,
+          7,
+          0,
+          24,
+          28,
+          24,
+          18,
+          30,
+          32,
+          38,
+          48,
+          38,
+          17,
+          9,
+          2,
+          20,
+          35,
+          40,
+          15,
+          15,
+          25,
+          30,
+          31,
+          31,
+          48,
+          33,
+          20,
+          34,
+          24,
+          22,
+          15,
+          35,
+          54,
+          34,
+          75,
+          100,
+          48,
+          72,
+          50,
+          36,
+          15,
+          29,
+          45,
+          20,
+          13,
+          16,
+          43,
+          0,
+          21,
+          13,
+          15,
+          18,
+          57,
+          75,
+          79,
+          69,
+          65,
+          30,
+          29,
+          33,
+          46,
+          47,
+          8,
+          16,
+          32,
+          46,
+          29,
+          3,
+          25,
+          47,
+          59,
+          63,
+          42,
+          42,
+          25,
+          34,
+          0,
+          0,
+          0,
+          37,
+          38,
+          4,
+          0,
+          0,
+          1
+        ],
+        "media_display_type": "audio",
+        "permalink": "https://zaionsofficial.slack.com/files/U04M00CUS0M/F06Q8E90CBT/audio_message.webm",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06Q8E90CBT-3950a580e1",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04M00CUS0M",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09TmN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1710578093.087969",
+    "client_msg_id": "4ed3d5e9-7f50-4e9a-a064-73aaecb73c22"
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1710576406.614419",
+    "edited": {
+      "user": "U04M00CUS0M",
+      "ts": "1710576422.000000"
+    },
+    "client_msg_id": "4d3b8de6-1837-4885-a46e-7ba12d4f7b26",
+    "text": "<@U02M820U29Z>\nSorry brother :pray: I will be more careful with my spelling mistakes next time.",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1710576406.614419",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1710577015.623439",
+    "reply_users": [
+      "U02M820U29Z"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8CKBY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              },
+              {
+                "type": "text",
+                "text": "\nSorry brother "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "unicode": "1f64f"
+              },
+              {
+                "type": "text",
+                "text": " I will be more careful with my spelling mistakes next time."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710575330.319819",
+    "client_msg_id": "d969893c-1acf-4148-8991-817a2540f4de",
+    "text": "you can ask me if you need help, but please try and don't repeat these spelling mistakes.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TBW/Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can ask me if you need help, but please try and don't repeat these spelling mistakes."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710575309.301979",
+    "client_msg_id": "aab2397b-15f2-4a14-970f-e6bd75f0c5fc",
+    "text": "please from now on, make sure any text you use in any video or design file, you check that from \"grammarly\" first, if there are any grammar mistakes we need to resolve that.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "98e3F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please from now on, make sure any text you use in any video or design file, you check that from \"grammarly\" first, if there are any grammar mistakes we need to resolve that."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710575251.074989",
+    "client_msg_id": "95ea4acc-487c-4409-9760-c97934f56edd",
+    "text": "as it will help you avoid these mistakes.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DtlPP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "as it will help you avoid these mistakes."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710575240.313589",
+    "client_msg_id": "dccc5b31-99ec-488b-ab0b-cb925597cd58",
+    "text": "AOA\n<@U04M00CUS0M>\nbrother please try to use \"grammarly\" when writing text.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h58wl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nbrother please try to use \"grammarly\" when writing text."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04GUS8RHJM",
+    "type": "message",
+    "ts": "1710575206.985739",
+    "client_msg_id": "53a9ca6e-42f2-48ea-acb2-b9e4bb3cbf4a",
+    "text": "<@U04M00CUS0M> <@U02M820U29Z>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ig2WY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Hwo instead of how",
+    "files": [
+      {
+        "id": "F06PVKCBGKD",
+        "created": 1710575193,
+        "timestamp": 1710575193,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U04GUS8RHJM",
+        "user_team": "T02M81CE7J6",
+        "editable": false,
+        "size": 326947,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02M81CE7J6-F06PVKCBGKD/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02M81CE7J6-F06PVKCBGKD/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PVKCBGKD-ad050b17ef/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PVKCBGKD-ad050b17ef/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PVKCBGKD-ad050b17ef/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 330,
+        "thumb_480": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PVKCBGKD-ad050b17ef/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 440,
+        "thumb_160": "https://files.slack.com/files-tmb/T02M81CE7J6-F06PVKCBGKD-ad050b17ef/image_160.png",
+        "original_w": 680,
+        "original_h": 623,
+        "thumb_tiny": "AwArADClHJGsqsyZUdRTppYnkBRMDGMHjP5UyGBpWwMD60ySMxuVPb0oAcXU4wMUu9P7n60v2f5QScA+/tmkNu4xyOTgDNACFlI4XFPUblJEfT3ojBVsHqMgimM5Q8Hr1FAtS381vhiuVPB9jUcqNIPM24B6VfkQSxkeoqJF/wBHA/2afUXSxQZxnBQHpSnAIIUYyDnrVjzLUAB4znHPFAktD/yyJH+7TIT8ivkbS2wD8ajZ1KkBACe9XDJaDrER/wABprSWpQ7Y+ccfLQO/kPklmik2B1PGfu0zz5cfeUf8BqpmjJ/yKRoSOoz8zYz7U3an9/8ASkycUlIBdq/3z+VHTIB4pKKAP//Z",
+        "permalink": "https://zaionsofficial.slack.com/files/U04GUS8RHJM/F06PVKCBGKD/image.png",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06PVKCBGKD-82c10f429f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04GUS8RHJM",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T7VWH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hwo instead of how"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1710575196.637599",
+    "client_msg_id": "a13b4340-1521-47a8-96e1-d356cc2eca0d"
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U02M820U29Z",
+    "thread_ts": "1710215354.349839",
+    "root": {
+      "user": "U02M820U29Z",
+      "type": "message",
+      "ts": "1710215354.349839",
+      "client_msg_id": "0130043d-17df-439b-a192-476164a5042c",
+      "text": "<@U04M00CUS0M>\n<http://Bubble.io|Bubble.io> course videos Section titles.\n\nin this message thread",
+      "team": "T02M81CE7J6",
+      "thread_ts": "1710215354.349839",
+      "reply_count": 4,
+      "reply_users_count": 1,
+      "latest_reply": "1711101236.069109",
+      "reply_users": [
+        "U02M820U29Z"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KQk+T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U04M00CUS0M"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "http://Bubble.io",
+                  "text": "Bubble.io"
+                },
+                {
+                  "type": "text",
+                  "text": " course videos Section titles.\n\nin this message thread"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1710483779.508179",
+    "client_msg_id": "6171a2e0-667a-4e70-aba4-53e015fe76d0",
+    "text": "new video section titles added - <http://bubble.io|bubble.io> course videos <@U04M00CUS0M>",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v1hX+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "new video section titles added - "
+              },
+              {
+                "type": "link",
+                "url": "http://bubble.io",
+                "text": "bubble.io"
+              },
+              {
+                "type": "text",
+                "text": " course videos "
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710215354.349839",
+    "client_msg_id": "0130043d-17df-439b-a192-476164a5042c",
+    "text": "<@U04M00CUS0M>\n<http://Bubble.io|Bubble.io> course videos Section titles.\n\nin this message thread",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1710215354.349839",
+    "reply_count": 4,
+    "reply_users_count": 1,
+    "latest_reply": "1711101236.069109",
+    "reply_users": [
+      "U02M820U29Z"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KQk+T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "http://Bubble.io",
+                "text": "Bubble.io"
+              },
+              {
+                "type": "text",
+                "text": " course videos Section titles.\n\nin this message thread"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1710210191.546019",
+    "edited": {
+      "user": "U02M820U29Z",
+      "ts": "1711010211.000000"
+    },
+    "client_msg_id": "20aa6f1f-dfcd-48de-a07e-cf114e9dc222",
+    "text": "AOA\n\n<@U04M00CUS0M>\nAWS Course Videos Content\n<https://chat.openai.com/c/e69a8071-d5fb-453d-95c3-c26964ae141a>\n\n-\n1. AWS for Beginners: Serverless API with Lambda & DynamoDB in Urdu/Hindi | Zaions\n    a. slug: serverless-restful-api-development-using-aws-lambda\n    b. hashtags: #ServerlessRestfulAPI #AWSLambdaAPIDevelopmentCourse #AWSServerlessCourse\n2. Deep Dive into AWS Lambda & API Gateway for RESTful APIs in Urdu/Hindi | Zaions\n    a. slug:        serverless-api-development-using-aws-lambda-and-api-gateway\n    b. hashtags:    #APIGateway #ServerlessRESTfulAPI #AWSLambdaFunctions",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1710210191.546019",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1711088602.362229",
+    "reply_users": [
+      "U02M820U29Z",
+      "U04M00CUS0M"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qf92k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nAWS Course Videos Content\n"
+              },
+              {
+                "type": "link",
+                "url": "https://chat.openai.com/c/e69a8071-d5fb-453d-95c3-c26964ae141a"
+              },
+              {
+                "type": "text",
+                "text": "\n\n-\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "AWS for Beginners: Serverless API with Lambda & DynamoDB in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: serverless-restful-api-development-using-aws-lambda"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #ServerlessRestfulAPI #AWSLambdaAPIDevelopmentCourse #AWSServerlessCourse"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Deep Dive into AWS Lambda & API Gateway for RESTful APIs in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug:        serverless-api-development-using-aws-lambda-and-api-gateway"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags:    #APIGateway #ServerlessRESTfulAPI #AWSLambdaFunctions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04GUS8RHJM",
+    "type": "message",
+    "ts": "1710146324.797259",
+    "client_msg_id": "af416a58-8070-4e5a-81a7-a0a6ae1471bc",
+    "text": "AOA\n<@U02M820U29Z> <@U04M00CUS0M>\n\nGitHub video link upload on zaions you tube channel :link: : <https://youtu.be/-cX0YdFAuHw>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qrmcn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\n\nGitHub video link upload on zaions you tube channel "
+              },
+              {
+                "type": "emoji",
+                "name": "link",
+                "unicode": "1f517"
+              },
+              {
+                "type": "text",
+                "text": " : "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/-cX0YdFAuHw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U04M00CUS0M"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709981166.662289",
+    "edited": {
+      "user": "U02M820U29Z",
+      "ts": "1711003799.000000"
+    },
+    "client_msg_id": "fc8e1b1c-751f-42c5-91fe-0d6a1c585b67",
+    "text": "<@U04M00CUS0M>\n\nchatgpt link: <https://chat.openai.com/c/e2837ae7-2d5e-49b2-a69c-1ae47419ef27>\n\ngithub video\n\n1. Mastering GitHub: Cloning, Collaboration, and Conflict Resolution in Urdu/Hindi | Zaions\n    a. short-course-on-github-28-2-24-v1\n    b. slug: mastering-github-collaboration-urdu-hindi\n    c. hashtags: #GitCollaboration #MergeConflicts #GitHubCloning",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1709981166.662289",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1711003813.510599",
+    "reply_users": [
+      "U02M820U29Z"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UWlW9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\n\nchatgpt link: "
+              },
+              {
+                "type": "link",
+                "url": "https://chat.openai.com/c/e2837ae7-2d5e-49b2-a69c-1ae47419ef27"
+              },
+              {
+                "type": "text",
+                "text": "\n\ngithub video\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Mastering GitHub: Cloning, Collaboration, and Conflict Resolution in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "short-course-on-github-28-2-24-v1"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: mastering-github-collaboration-urdu-hindi"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags: #GitCollaboration #MergeConflicts #GitHubCloning"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709823314.652709",
+    "edited": {
+      "user": "U02M820U29Z",
+      "ts": "1709987141.000000"
+    },
+    "client_msg_id": "ac1ff928-d85b-4761-8555-5f16e37f2fc0",
+    "text": "<@U04M00CUS0M>\nreact native course videos titles\n1. React Native Introduction and Differences with ReactJS | Urdu/Hindi | Zaions\n    a. 01-react-native-intro-and-difference-between-reactjs-and-react-native\n    b. slug:  react-native-introduction-urdu-hindi\n    c. hashtags:    #ReactNativeCourse #ReactJSvsReactNative #MobileAppDevelopment\n2. How to Setup a React Native Project with React Native CLI in Urdu/Hindi | Zaions\n    a. 02-setting-up-a-react-native-project-using-react-native-cli\n    b. slug: react-native-cli-setup-guide\n    c. hash tags: #ReactNativeCLI #ReactNativeTutorial #MobileAppDevelopment\n3. Learn How to Setup React Native Project with Expo CLI in Urdu/Hindi | Zaions\n    a. 03-getting-started-with-expo-cli\n    b. slug: react-native-expo-cli-setup\n    c. hashtags:     #ExpoCLI #ReactNativeExpo #MobileAppDevelopment\n4. Choosing the Best React Native Boilerplate in Urdu/Hindi | Zaions\n    a. 04-getting-started-with-boilerplates-and-setting-up-few-popular-react-native-boilerplates\n    b. slug: choosing-the-best-react-native-boilerplate\n    c. hashtag:    #IgniteBoilerplate #TheCodingMachineBoilerplate #BestReactNativeBoilerplate\n5. Our First React Native App Using Ignite CLI: A Milestone in Urdu/Hindi | Zaions\n    a. 05-finally-yes-fianlly-we-wrote-our-first-line-of-code-in-react-native-project-created-by-ignite-cli\n    b. slug: first-react-native-code-in-ignite-boilerplate\n    c. hashtags:    #ReactNativeDevelopment #IgniteCLI #LearnReactNative\n6. Fixing iOS Simulator Error in React Native: Ignite CLI Solution in Urdu/Hindi | Zaions\n    a. 06-solution-of-the-error-we-were-facing-while-running-project-on-ios-simulator\n    b. slug: solving-react-native-ios-simulator-issue-ignite-cli\n    c. hashtag: #ReactNativeErrorFix #iOSsimulatorSolution #IgniteCLITroubleshooting",
+    "team": "T02M81CE7J6",
+    "thread_ts": "1709823314.652709",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1709979963.187289",
+    "reply_users": [
+      "U02M820U29Z"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LU6r+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nreact native course videos titles\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "React Native Introduction and Differences with ReactJS | Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "01-react-native-intro-and-difference-between-reactjs-and-react-native"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug:  react-native-introduction-urdu-hindi"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags:    #ReactNativeCourse #ReactJSvsReactNative #MobileAppDevelopment"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "How to Setup a React Native Project with React Native CLI in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "02-setting-up-a-react-native-project-using-react-native-cli"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: react-native-cli-setup-guide"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hash tags: #ReactNativeCLI #ReactNativeTutorial #MobileAppDevelopment"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Learn How to Setup React Native Project with Expo CLI in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 2,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "03-getting-started-with-expo-cli"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: react-native-expo-cli-setup"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags:     #ExpoCLI #ReactNativeExpo #MobileAppDevelopment"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Choosing the Best React Native Boilerplate in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 3,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "04-getting-started-with-boilerplates-and-setting-up-few-popular-react-native-boilerplates"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: choosing-the-best-react-native-boilerplate"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtag:    #IgniteBoilerplate #TheCodingMachineBoilerplate #BestReactNativeBoilerplate"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Our First React Native App Using Ignite CLI: A Milestone in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 4,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "05-finally-yes-fianlly-we-wrote-our-first-line-of-code-in-react-native-project-created-by-ignite-cli"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: first-react-native-code-in-ignite-boilerplate"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtags:    #ReactNativeDevelopment #IgniteCLI #LearnReactNative"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Fixing iOS Simulator Error in React Native: Ignite CLI Solution in Urdu/Hindi | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 5,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "06-solution-of-the-error-we-were-facing-while-running-project-on-ios-simulator"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "slug: solving-react-native-ios-simulator-issue-ignite-cli"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hashtag: #ReactNativeErrorFix #iOSsimulatorSolution #IgniteCLITroubleshooting"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1709795668.409989",
+    "client_msg_id": "958ee0f9-e89c-4aa8-820a-75dfc790d71d",
+    "text": "<@U02M820U29Z>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09TmN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1709795601.511749",
+    "edited": {
+      "user": "U04M00CUS0M",
+      "ts": "1709795662.000000"
+    },
+    "client_msg_id": "cc3401f4-93d9-4c66-8dac-fc351dd8f9da",
+    "text": "React Native video files names:\n\n01-react-native-intro-and-difference-between-reactjs-and-react-native\n02-setting-up-a-react-native-project-using-react-native-cli\n03-getting-started-with-expo-cli\n04-getting-started-with-boilerplates-and-setting-up-few-popular-react-native-boilerplates\n05-finally-yes-fianlly-we-wrote-our-first-line-of-code-in-react-native-project-created-by-ignite-cli\n06-solution-of-the-error-we-were-facing-while-running-project-on-ios-simulator",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b9gTF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "React Native video files names:\n\n01-react-native-intro-and-difference-between-reactjs-and-react-native\n02-setting-up-a-react-native-project-using-react-native-cli\n03-getting-started-with-expo-cli\n04-getting-started-with-boilerplates-and-setting-up-few-popular-react-native-boilerplates\n05-finally-yes-fianlly-we-wrote-our-first-line-of-code-in-react-native-project-created-by-ignite-cli\n06-solution-of-the-error-we-were-facing-while-running-project-on-ios-simulator"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709714300.194439",
+    "client_msg_id": "0eea639a-0e03-4feb-bbf7-9c0ab6347be9",
+    "text": "<@U04M00CUS0M>\nplease correct these mistakes.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bd81q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nplease correct these mistakes."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "AOA  <@U04M00CUS0M> <@U02M820U29Z>\n\nVideo Name :  Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 1 | Zaions\nVideo Link : <https://www.youtube.com/watch?v=NYcNXTYq1tQ&amp;ab_channel=Zaions>\n\nToday Video Mistake In This Sheet",
+    "files": [
+      {
+        "id": "F06MU70G4R4",
+        "created": 1709657328,
+        "timestamp": 1709657328,
+        "name": "Video-Review-Sheet-Zaions-Youtube-Video.txt",
+        "title": "Video-Review-Sheet-Zaions-Youtube-Video.txt",
+        "mimetype": "text/plain",
+        "filetype": "text",
+        "pretty_type": "Plain Text",
+        "user": "U04GUS8RHJM",
+        "user_team": "T02M81CE7J6",
+        "editable": true,
+        "size": 760,
+        "mode": "snippet",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02M81CE7J6-F06MU70G4R4/video-review-sheet-zaions-youtube-video.txt",
+        "url_private_download": "https://files.slack.com/files-pri/T02M81CE7J6-F06MU70G4R4/download/video-review-sheet-zaions-youtube-video.txt",
+        "permalink": "https://zaionsofficial.slack.com/files/U04GUS8RHJM/F06MU70G4R4/video-review-sheet-zaions-youtube-video.txt",
+        "permalink_public": "https://slack-files.com/T02M81CE7J6-F06MU70G4R4-7ea951f548",
+        "edit_link": "https://zaionsofficial.slack.com/files/U04GUS8RHJM/F06MU70G4R4/video-review-sheet-zaions-youtube-video.txt/edit",
+        "preview": "\r\nVideo Review By M.Hamza Tariq \r\n\r\nVideo # 1 \r\n\r",
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\">\n<div class=\"CodeMirror-code\">\n<div><pre></pre></div>\n<div><pre>Video Review By M.Hamza Tariq </pre></div>\n<div><pre></pre></div>\n<div><pre>Video # 1 </pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n",
+        "lines": 35,
+        "lines_more": 30,
+        "preview_is_truncated": false,
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U04GUS8RHJM",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QPTR5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA  "
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02M820U29Z"
+              },
+              {
+                "type": "text",
+                "text": "\n\nVideo Name :  Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 1 | Zaions\nVideo Link : "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=NYcNXTYq1tQ&ab_channel=Zaions"
+              },
+              {
+                "type": "text",
+                "text": "\n\nToday Video Mistake In This Sheet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1709657488.235009",
+    "client_msg_id": "07137de6-06c8-44d8-9c50-73b929073714"
+  },
+  {
+    "user": "U04M00CUS0M",
+    "type": "message",
+    "ts": "1709657174.429139",
+    "client_msg_id": "d0336d3c-eab1-49cb-bb46-e5c1dc41836f",
+    "text": "ok",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "luWBi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709657073.475949",
+    "edited": {
+      "user": "U02M820U29Z",
+      "ts": "1709657079.000000"
+    },
+    "client_msg_id": "eabe6e56-6f21-4a05-91a4-fa2ff203c2f6",
+    "text": "<@U04M00CUS0M>\ni have added the content for two flutter videos which were available in youtube, please upload more videos which you have completed in youtube so i can add content for these as well.\n\nand please create and add thumbnail for these two flutter videos tomorrow, so i can publish them.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XF7oP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\ni have added the content for two flutter videos which were available in youtube, please upload more videos which you have completed in youtube so i can add content for these as well.\n\nand please create and add thumbnail for these two flutter videos tomorrow, so i can publish them."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709656580.362869",
+    "client_msg_id": "73e4411a-811c-4d2d-8c3d-e28b7fde77d0",
+    "text": "<@U04M00CUS0M>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iHLo5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709656571.357609",
+    "client_msg_id": "3c27ca33-8ff0-4327-86dc-851ba0a40456",
+    "text": "<@U04GUS8RHJM>",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3HNL5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U04GUS8RHJM"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709656569.308239",
+    "client_msg_id": "a1a6f8f6-a4f2-410a-a8be-4dcba7d2edbe",
+    "text": "please review and add other flutter videos (i think only 3rd one is missing) in youtube, please let me know the chapters timing so i can add that in videos\n-\nand also upload the other videos on youtube.",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IOy0r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please review and add other flutter videos (i think only 3rd one is missing) in youtube, please let me know the chapters timing so i can add that in videos\n-\nand also upload the other videos on youtube."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U02M820U29Z",
+    "type": "message",
+    "ts": "1709656027.993299",
+    "edited": {
+      "user": "U02M820U29Z",
+      "ts": "1709656519.000000"
+    },
+    "client_msg_id": "2c520769-33c0-4acb-bc26-547b327b6820",
+    "text": "AOA\n<@U04M00CUS0M>\nplease create thumbnails for these flutter videos so i can publish them.\n\n1. Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 1 | Zaions\n2. Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 2 | Zaions\n3. Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 3 | Zaions\n    a. and i do not see the third flutter video in youtube?",
+    "team": "T02M81CE7J6",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EsYmq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AOA\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U04M00CUS0M"
+              },
+              {
+                "type": "text",
+                "text": "\nplease create thumbnails for these flutter videos so i can publish them.\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 1 | Zaions"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 2 | Zaions"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Flutter App Development: Maximilian Schwarzmüller Course in Urdu Part 3 | Zaions"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "and i do not see the third flutter video in youtube?"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ]
+  }
+]
